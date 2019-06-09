@@ -1,0 +1,85 @@
+.isItalic{
+  font-style: italic;
+}
+
+.isBold{
+  font-weight: bold;
+}
+
+.isUnderLined{
+  text-decoration: underline;
+}
+
+.dropdown{
+  width: 6%;
+  display: inline-block;
+  position: absolute;
+} 
+
+#myDropdown{
+  display: none;
+  text-align: center;
+  
+}
+#myDropdown li{
+  cursor:pointer ;
+ 
+}
+#myDropdown li:hover{
+  font-size: 22px;
+  font-weight: bold;
+}
+.open{
+  display:grid !important;
+}
+
+.controle{
+  position: relative;
+}
+
+.f1{
+  font-family: fantasy;
+}
+.f2{
+  font-family: monospace;
+}
+.f3{
+  font-family: cursive;
+}
+
+.dropdown2{
+  width: 6%;
+  display: inline-block;
+  position: absolute;
+  right:75%;
+} 
+
+#myDropdown2{
+  display: none;
+  text-align: center;
+  
+}
+#myDropdown2 li{
+  cursor:pointer ;
+ 
+}
+#myDropdown2 li:hover{
+  font-size: 22px;
+  font-weight: bold;
+}
+.play{
+  display:grid !important;
+}
+
+.controle{
+  position: relative;
+}
+.fa{
+  font-size: 20px; /*font-size moush font-weight ha mout arra7i 5edmet el 5edma el kol w faute de frappe wa9fettek XD*/
+}
+.fb{
+  font-size: 30px;
+}
+.fc{
+  font-size: 40px;
+}
